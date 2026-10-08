@@ -6,10 +6,10 @@ End-to-end data analytics project using **Excel, SQL (MySQL) and Power BI** on a
 
 **Page 1: Executive Overview**
 
-![Dashboard Page 1](dashboard_page1.png)<img width="1287" height="716" alt="Superstore_Dashboard_Page1" src="https://github.com/user-attachments/assets/5f669973-2e34-4b9f-a30c-488a3adea04f" />
+<img width="1287" height="716" alt="Superstore_Dashboard_Page1" src="https://github.com/user-attachments/assets/5f669973-2e34-4b9f-a30c-488a3adea04f" />
 
 **Page 2: Deep Dive**
-![Dashboard Page 2](dashboard_page2.png)<img width="1296" height="722" alt="Superstore_Dashboard_Page2" src="https://github.com/user-attachments/assets/32b62ff9-521c-47e9-bab8-b2addccb9a5b" />
+<img width="1296" height="722" alt="Superstore_Dashboard_Page2" src="https://github.com/user-attachments/assets/32b62ff9-521c-47e9-bab8-b2addccb9a5b" />
 
 ## Project Workflow
 
