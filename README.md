@@ -60,7 +60,7 @@ Relationships: `orders.Order ID` to `returns.Order ID` and `orders.Region` to `p
 - `superstore_sql_analysis.sql`: all 10 SQL queries with comments
 - `Sample - Superstore.xlsx`: cleaned Excel summary report
 - `superstore_dashboard_overview.png`: dashboard_page1.png
-- `superstore_dashboard_deep_dive.png`: dashboard_page2.png`: dashboard screenshots
+- `superstore_dashboard_deep_dive.png`: dashboard_page2.png`: 
 
 ## Tools Used
 
